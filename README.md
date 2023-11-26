@@ -7,7 +7,7 @@ I develop various utilities for linux, interested in and learning low-level prog
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jinetty&layout=compact&langs_count=4&theme=dark)](https://github.com/jinetty)
 
-### Have Questions?
+### Contact
 - `Jinetty21#2888` on Discord
 - [Jinetty21](https://twitter.com/Jinetty21) on Twitter
 - [Jinetty21](https://t.me/jinetty21) on Telegram
