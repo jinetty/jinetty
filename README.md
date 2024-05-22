@@ -11,3 +11,4 @@ I develop various utilities for linux, interested in and learning low-level prog
 - `Jinetty21#2888` on Discord
 - [Jinetty21](https://twitter.com/Jinetty21) on Twitter
 - [Jinetty21](https://t.me/jinetty21) on Telegram
+- [E-mail](mailto:umittaylan@tutanota.com)
